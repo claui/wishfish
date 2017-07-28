@@ -1,6 +1,6 @@
 #!/bin/bash
 
 cd "$(dirname "${BASH_SOURCE[0]}")/.."
-. "lib/$(basename "${0}").bash"
+. "libexec/$(basename "${0}").bash"
 
 _"$(basename "${0}")" "$@"

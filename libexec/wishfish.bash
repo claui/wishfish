@@ -1,4 +1,4 @@
-. 'lib/ipv6_address.bash'
+. 'libexec/ipv6_address.bash'
 
 _print_help_text() {
   echo >&2 "Usage:   $(basename "${0}")" \
