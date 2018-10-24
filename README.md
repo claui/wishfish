@@ -28,13 +28,7 @@ Without `wishfish`, you’d need to either configure your Wi-Fi interface to hav
 
 1. Make sure you have [Homebrew](https://brew.sh) installed.
 
-2. Run `brew tap claui/public` if you haven’t already done so.
-
-3. Run:
-
-```
-brew install wishfish
-```
+2. Run `brew install claui/public/wishfish` if you haven’t already done so.
 
 
 ## Usage
